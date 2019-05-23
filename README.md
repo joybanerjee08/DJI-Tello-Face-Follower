@@ -11,4 +11,4 @@ Run the ```telloai.py``` file (keep the .py file just outside the resnet10 folde
 4. ```-m <model file, default is given>```
 
 **Demo :**
-<video src="demo.mp4" width="400" height="300" controls preload></video>
+![](demo.gif)
